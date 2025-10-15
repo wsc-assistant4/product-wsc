@@ -1,7 +1,7 @@
 // src/components/solution-finder/Step3_Maturity.tsx
 
 import React from 'react';
-import { Slider } from '@/components/ui/Slider';
+import { Slider } from 'components/ui/Slider';
 import { FormData } from '@/types';
 
 type StepProps = {

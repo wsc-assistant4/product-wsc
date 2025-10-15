@@ -1,7 +1,7 @@
 // src/components/solution-finder/Step2_Focus.tsx
 
 import React from 'react';
-import { Card } from '@/components/ui/Card';
+import { Card } from 'components/ui/Card';
 import { FormData } from '@/types';
 
 type StepProps = {
